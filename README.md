@@ -25,7 +25,7 @@ O template está disponível na seguinte URL:
 
 Agora navegue até a pasta criada, abra no Visual Studio Code e por último abra o arquivo `index.js`. Lembre-se de executar o comando `yarn` no seu terminal para instalar todas as dependências e você terá o seguinte código:
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9f8032e9-d459-4c6f-a60f-d8c90fd9bc5a/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9f8032e9-d459-4c6f-a60f-d8c90fd9bc5a/Untitled.png)
+![image](https://user-images.githubusercontent.com/31146190/111887763-07a15980-89b6-11eb-8cbd-2ea130439cb8.png)
 
 ## Rotas da aplicação
 
@@ -134,7 +134,7 @@ Para completar todos os testes referentes à *todos* é necessário antes ter co
 
 **Observação:** O username deve ser enviado pelo header em uma propriedade chamada `username`:
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5c538c34-498a-4789-9bb4-0f286d9b2cf2/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5c538c34-498a-4789-9bb4-0f286d9b2cf2/Untitled.png)
+![image](https://user-images.githubusercontent.com/31146190/111887812-551dc680-89b6-11eb-8d80-3cc486c2a7e4.png)
 
 - **Should be able to list all user's todos**
 
